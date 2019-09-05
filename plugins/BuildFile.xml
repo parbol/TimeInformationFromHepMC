@@ -19,4 +19,6 @@
 <use name="RecoVertex/AdaptiveVertexFit"/>
 <use name="RecoVertex/VertexTools"/>
 <use name="RecoBTag/SecondaryVertex"/>
+<use name="HepPDT"/>
+<use name="SimGeneral/HepPDTRecord"/>
 <flags EDM_PLUGIN="1"/>
